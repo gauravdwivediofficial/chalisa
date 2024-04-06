@@ -1,0 +1,61 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+.main-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: radial-gradient(circle at center center, transparent,rgb(33,33,33)),repeating-linear-gradient(135deg, rgb(33,33,33) 0px, rgb(33,33,33) 2px,transparent 2px, transparent 10px,rgb(33,33,33) 10px, rgb(33,33,33) 11px,transparent 11px, transparent 21px),repeating-linear-gradient(45deg, rgb(47,47,47) 0px, rgb(47,47,47) 4px,transparent 4px, transparent 8px),linear-gradient(90deg, rgb(33,33,33),rgb(33,33,33));
+}
+.chalisa-heading{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin: 10px;
+    color: chartreuse;
+}
+.chaupai-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.doha{
+    margin: 15px;
+    font-size: 35px;
+    /* color: antiquewhite; */
+    color: #bbd0ff;
+}
+
+
+.chaupai-heading{
+    margin: 15px;
+    font-weight: 700;
+    font-size: 35px;
+    color: antiquewhite;
+}
+h4{
+    color: aliceblue;
+    font-weight: 500;
+    font-size: 25px;
+    margin: 10px;
+}
+h3{
+    font-size: 30px;
+    color:aliceblue;
+}
+hr{
+    color: black;
+    width: 100%;
+}
+.astak{
+    font-weight: 500;
+    font-size: 25px;
+    margin-top: 5px;
+    margin-top: 10px;
+    color: aliceblue;
+}
